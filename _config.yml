@@ -10,4 +10,4 @@ url: "http://perso.uclouvain.be/rytis.bagdziunas"
 markdown: redcarpet
 permalink: pretty
 highlighter: true
-exclude: ['posts']
+exclude: ['posts', '_posts']
