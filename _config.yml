@@ -2,11 +2,12 @@
 title: Rytis Bagdžiūnas
 email: rytis.bagdziunas@uclouvain.be
 username: rbagd
-description: "This is an a portfolio website for my academic projects. It includes lots of stuff related to my research."
-baseurl: ""
-url: "http://perso.uclouvain.be/rytis.bagdziunas/jekyll"
+description: "This is a portfolio website for my academic projects. It includes stuff related to my research."
+baseurl: "http://perso.uclouvain.be/rytis.bagdziunas"
+# url: "http://perso.uclouvain.be/rytis.bagdziunas"
 
 # Build settings
 markdown: redcarpet
 permalink: pretty
 highlighter: true
+exclude: ['posts']
