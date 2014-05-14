@@ -190,22 +190,23 @@ a:visited { color: #205caa; }
 .post-content h6 {
   line-height: 1;
   font-weight: 300;
-  margin: 40px 0 20px;
+  margin: 40px 0 20px;  
 }
 
 .post-content h2 {
   font-size: 32px;
-  letter-spacing: -1.25px;
+  letter-spacing: 0px;
 }
 
 .post-content h3 {
   font-size: 26px;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
 }
 
 .post-content h4 {
-  font-size: 20px;
-  letter-spacing: -1px;
+  font-size: 16px;
+  letter-spacing: 0px;
+  font-weight: bold;
 }
 
 .post-content blockquote {
