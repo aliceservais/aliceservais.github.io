@@ -19,4 +19,4 @@ I am a Ph.D. student in econometrics at the Université catholique de Louvain, B
 
 I keep also a [personal non-academic website](http://rbagd.eu).
 
-My PGP key ID is `0x4E0D7D37`. You can find my public key [here](http://rbagd.eu/contacts/pgp.txt).
+My PGP key ID is `0x4E0D7D37`. You can find my public key [here]( {{ site.baseurl }}/pgp.txt).
