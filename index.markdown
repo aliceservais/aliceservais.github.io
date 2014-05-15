@@ -17,6 +17,6 @@ I am a Ph.D. student in econometrics at the Université catholique de Louvain, B
 
 * [rytis@jabber.belnet.be](xmpp:rytis@jabber.belnet.be "Contact me on Jabber/XMPP network")
 
-I keep also a [personal non-academic website](http://rbagd.eu).
+I also keep a [personal non-academic weblog](http://rbagd.eu).
 
 My PGP key ID is `0x4E0D7D37`. You can find my public key [here]( {{ site.baseurl }}/pgp.txt).
