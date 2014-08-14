@@ -1,13 +1,12 @@
 # Site settings
-title: Rytis Bagdžiūnas
-email: rytis.bagdziunas@uclouvain.be
-username: rbagd
+title: Alice Servais
+email: alice.servais@kuleuven.be
+username: aliceservais
 description: "This is a portfolio website for my academic projects. It includes information related to my research."
-baseurl: "http://perso.uclouvain.be/rytis.bagdziunas"
-# url: "http://perso.uclouvain.be/rytis.bagdziunas/"
+url: http://alicemservais.eu
 
 # Build settings
 markdown: redcarpet
 permalink: pretty
-highlighter: true
+highlighter: pygments
 exclude: ['posts', '_posts']
