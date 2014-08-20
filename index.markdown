@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-I am a Ph.D. student in econometrics at the Université catholique de Louvain, Belgium, holding a scholarship of [Aspirant FNRS](http://www.fnrs.be/).
+I am a Ph.D. student in monetary policy at the Catholic University of Leuven (KUL) and at the Université catholique de Louvain (UCL), Belgium.
 
 #### Contacts
 
