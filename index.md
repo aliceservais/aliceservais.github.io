@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-I am a Ph.D. student in monetary policy at the Catholic University of Leuven (KUL) and at the Université catholique de Louvain (UCL), Belgium.
+I am a Ph.D. student in monetary policy at the Catholic University of Leuven (KULeuven) and at the Université Catholique de Louvain (UCL), Belgium.
 
 #### Contacts
 
